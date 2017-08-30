@@ -10,3 +10,10 @@ span{
     width: 33%;
     
 }
+.row h3{
+    font-size: 25px;
+    text-align: center;
+}
+.row h4{
+    text-align: center;
+}
