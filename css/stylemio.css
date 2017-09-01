@@ -31,3 +31,13 @@ span{
 p{
     font-size: 12px;
 }
+.boton{
+    background-color:#92DD03;
+    border-style: none;
+    
+}
+.boton:hover{
+    color:#92DD03;
+    background-color: white;
+    
+}
