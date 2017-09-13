@@ -31,13 +31,18 @@ span{
 p{
     font-size: 12px;
 }
-.boton{
+#boton{
     background-color:#92DD03;
     border-style: none;
+    margin-top: 50px;
     
 }
-.boton:hover{
+#boton:hover{
     color:#92DD03;
     background-color: white;
     
 }
+.progress-wrap{
+    font-size: 15px;
+}
+
