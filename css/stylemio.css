@@ -45,4 +45,20 @@ p{
 .progress-wrap{
     font-size: 15px;
 }
-
+blockquote i{
+    color: #92DD03;
+    margin-left: 20px;
+}
+.otrosdatos{
+    color: black;
+    font-size: 15px;
+    font-family: sans-serif;
+    
+}
+.contact-info li{
+    text-align: center;
+}
+#telefono{
+    font-size: 20px;
+   
+}
